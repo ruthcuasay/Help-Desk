@@ -1,0 +1,16 @@
+C:\Users\rutht\OneDrive\Documents\SharpDevelop Projects\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe.config
+C:\Users\rutht\OneDrive\Documents\SharpDevelop Projects\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe
+C:\Users\rutht\OneDrive\Documents\SharpDevelop Projects\HelpDesk\HelpDesk\bin\Debug\HelpDesk.pdb
+C:\Users\rutht\OneDrive\Documents\SharpDevelop Projects\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+C:\Users\rutht\OneDrive\Documents\SharpDevelop Projects\HelpDesk\HelpDesk\obj\Debug\HelpDesk.MainForm.resources
+C:\Users\rutht\OneDrive\Documents\SharpDevelop Projects\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.Cache
+C:\Users\rutht\OneDrive\Documents\SharpDevelop Projects\HelpDesk\HelpDesk\obj\Debug\HelpDesk.exe
+C:\Users\rutht\OneDrive\Documents\SharpDevelop Projects\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+C:\wamp\www\HelpDeskPriority\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe.config
+C:\wamp\www\HelpDeskPriority\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe
+C:\wamp\www\HelpDeskPriority\HelpDesk\HelpDesk\bin\Debug\HelpDesk.pdb
+C:\wamp\www\HelpDeskPriority\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+C:\wamp\www\HelpDeskPriority\HelpDesk\HelpDesk\obj\Debug\HelpDesk.MainForm.resources
+C:\wamp\www\HelpDeskPriority\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.Cache
+C:\wamp\www\HelpDeskPriority\HelpDesk\HelpDesk\obj\Debug\HelpDesk.exe
+C:\wamp\www\HelpDeskPriority\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
